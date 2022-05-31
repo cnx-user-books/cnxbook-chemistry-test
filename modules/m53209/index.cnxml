@@ -1,0 +1,14 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>exponent of exponent test</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m53209</md:content-id>
+  <md:title>exponent of exponent test</md:title>
+  <md:abstract/>
+  <md:uuid>19668b9c-b29e-46df-8481-cb3e994cd283</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><m:math><m:mrow><m:msup><m:mi>e</m:mi><m:mrow><m:mo>–</m:mo><m:msub><m:mi>E</m:mi><m:mtext>a</m:mtext></m:msub><m:mo>/</m:mo><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow></m:msup></m:mrow></m:math></para></content>
+
+</document>

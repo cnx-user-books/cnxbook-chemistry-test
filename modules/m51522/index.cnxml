@@ -1,0 +1,48 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Chemistry arrow test</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m51522</md:content-id>
+  <md:title>Chemistry arrow test</md:title>
+  <md:abstract/>
+  <md:uuid>80911475-65a3-4dd7-b88a-b317793e6527</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id5136539">·OH<newline/>
+᛫OH<newline/>
+•OH<newline/>
+․OH<newline/>
+∙OH<newline/>
+.OH<newline/>
+⸱OH <newline/>
+⸳OH</para><para id="eip-541"><m:math><m:mrow><m:msup><m:mtext>U</m:mtext><m:mn>235</m:mn></m:msup><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:mrow></m:math></para><para id="delete_me"><equation id="eip-id1166475605849"><m:math>
+<m:mtable><m:mtr>
+<m:mtd columnalign="left"><m:mrow>
+<m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo><m:mo>+</m:mo></m:mrow>
+</m:mtd>
+<m:mtd columnalign="left"><m:mn>2</m:mn><m:msub><m:mtext>Br</m:mtext><m:mn>2</m:mn></m:msub><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo>
+</m:mtd>
+<m:mtd><m:mo>⇌</m:mo></m:mtd>
+<m:mtd columnalign="left"><m:msub><m:mtext>C</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>Br</m:mtext><m:mn>4</m:mn></m:msub><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left"><m:mi>x</m:mi></m:mtd>
+<m:mtd columnalign="left"><m:mo>_____</m:mo></m:mtd>
+<m:mtd/>
+<m:mtd columnalign="left"><m:mo>_________</m:mo></m:mtd>
+
+</m:mtr>
+</m:mtable></m:math></equation><m:math display="block">
+ <m:semantics>
+  <m:mrow>
+   <m:mtext>5</m:mtext><m:mtext>.0 in</m:mtext><m:mtext>. MS = 5</m:mtext><m:mtext>.0 + 5</m:mtext><m:mtext>.0 </m:mtext>
+    <m:mo stretchy="false">⟶</m:mo>
+   <m:mtext> 5</m:mtext><m:mtext>.0 + 5</m:mtext><m:mtext>.0 + 5</m:mtext><m:mtext>.0 + 5</m:mtext><m:mtext>.0 + 5</m:mtext><m:mtext>.0 + 5</m:mtext><m:mtext>.0 + 5</m:mtext><m:mtext>.0 + 5</m:mtext><m:mtext>.0 g</m:mtext>
+  </m:mrow>
+ </m:semantics>
+</m:math>
+</para><para id="eip-660"><m:math><m:mtext>Δ</m:mtext><m:msubsup><m:mi>H</m:mi><m:mtext>f</m:mtext><m:mtext>º</m:mtext></m:msubsup><m:mtext>testing</m:mtext></m:math></para></content>
+
+</document>
